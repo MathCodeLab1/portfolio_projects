@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project analyses Airbnb listings in Amsterdam using Python and Pandas. It demonstrates a complete exploratory data analysis (EDA) workflow, from data quality assessment, data cleaning, visualization, and business insights.
+This project analyses Airbnb listings in Amsterdam using Python and Pandas. It demonstrates a complete exploratory data analysis (EDA) workflow, including data quality assessment, data cleaning, visualization, and business insights.
 
 ## Research Questions
 

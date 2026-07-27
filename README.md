@@ -1,37 +1,25 @@
-# Portfolio Projects
 
-Welcome to my portfolio of Python, SQL, and data analytics projects. This repository showcases my learning journey through practical projects in data analysis,
-data cleaning, exploratory data analysis (EDA), and collaborative software development.
+# Portfolio
 
-## Projects
+Welcome to my professional portfolio.
+This repository showcases my work in data analytics, business ventures, social impact, and continuous learning.
 
-### Vacation Rental Analytics
-- Exploratory Data Analysis (EDA)
-- Pandas
-- Data visualization
-- SQL
 
-### CNC Manufacturing Analytics
-- Manufacturing data analysis
-- Python
-- Data cleaning
+## Data Analytics
+Projects demonstrating Python, SQL, data cleaning, exploratory data analysis (EDA), and data visualization.
 
-### Learning Projects
-- SQL practice
-- Python exercises
-- Git workflow
 
-## Skills
-- Python
-- SQL
-- Pandas
-- NumPy
-- Git & GitHub
-- Jupyter Notebook
-  
+## Business Ventures
+Business ventures applying data analysis, technology, and innovation toslove real-world challenges.
 
-## Collaboration
-- Contributed to a collaborative GitHub project by designing an initial SQLite database schema.
-- Experience using Git branches, commits, pushes, and Pull Requests.
 
-I continue to expand this portfolio as I develop my skills in Python, SQL, data analytics, and collaborative software development.
+## Social Impact
+Initiatives focused on expanding educational opportunities and fostering strategic partnerships across West Africa.
+
+
+## Learning
+Practice projects and resources uesd to strengthen my skills in Python, SQL, data analytics, and software development.
+
+
+s
+
