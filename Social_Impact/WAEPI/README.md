@@ -7,7 +7,7 @@
 
 WAEPI is a long-term initiative focused on expanding educational opportunities, fostering strategic partnerships, and supporting youth development across West Africa.
 
-The initiative begins with **The Gambia** and **Senegal**, with a long-term vision of expanding across the ECOWAS region.
+The initiative begins in **The Gambia**, with a long-term vision of expanding to other English-speaking West African countries before serving the wider ECOWAS region.
 
 ## Repository Contents
 
