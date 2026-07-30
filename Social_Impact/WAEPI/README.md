@@ -16,9 +16,17 @@ The initiative begins in **The Gambia**, with a long-term vision of expanding to
 - Partnerships
 - Funding
 - Presentations
+- 
 
 ## Status
 
-This initiative is currently under development.
+Under Development.
 
-We welcome future collaboration with universities, NGOs, educational organisations, mentors, volunteers, and strategic partners.
+
+## Collaboration
+
+We welcome future collaboration with universities, NGOs, educational institutions, mentors, volunteers, and strategic partners who share our vision of expanding educational opportunities across West Africa.
+
+---
+
+**Author:** Charles Mbayo
