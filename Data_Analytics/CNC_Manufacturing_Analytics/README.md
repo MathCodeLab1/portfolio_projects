@@ -1,6 +1,29 @@
 
 # CNC Manufacturing Analytics
 
-This project will focus on manufacturing data analysis using Python, SQL, and data visualization.
+## Overview
 
-Status: Planned (to be developed).
+This project will analyze manufacturing data using Python and SQL to identify trends, improve production efficiency, and support data-driven decision-making. It will demonstrate data cleaning, exploratory data analysis (EDA), visualization, and manufacturing performance analysis.
+
+## Objectives
+
+- Analyze manufacturing production data.
+- Identify patterns and performance trends.
+- Create visualizations to communicate insights.
+- Practice SQL queries for manufacturing datasets.
+
+## Tools
+- Python
+- SQL
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Git & GitHub
+
+## Status
+
+ Planned (to be developed)
+
+---
+
+**Author:** Charles Mbayo
