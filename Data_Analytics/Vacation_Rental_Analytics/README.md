@@ -3,13 +3,14 @@
 
 ## Overview
 
-This project analyses Airbnb listings in Amsterdam using Python and Pandas. It demonstrates a complete exploratory data analysis (EDA) workflow, including data quality assessment, data cleaning, visualization, and business insights.
+This project analyzes Airbnb listings in Amsterdam using Python and Pandas. It demonstrates an exploratory data analysis (EDA) workflow, including data quality assessment, data cleaning, visualization, and business insights.
 
 ## Research Questions
 
-1. Which neighbourhood has the highest Airbnb listing prices?
+1. Which neighborhood has the highest Airbnb listings prices?
 2. How does room type affect Airbnb listing prices?
 3. Are there price outliers, and how do they affect the analysis?
+
 
 ## Tools
 
@@ -20,17 +21,6 @@ This project analyses Airbnb listings in Amsterdam using Python and Pandas. It d
 - Jupyter Notebook
 - Git & GitHub
 
-## Project Structure
-
-```text
-Vacation_Rental_Analytics/
-├── notebooks/
-│   └── airbnb_exploration.ipynb
-├── reports/
-│   ├── airbnb_report.html
-│   └── airbnb_clean_report.html
-└── README.md
-```
 
 ## Key Findings
 
@@ -41,8 +31,9 @@ Vacation_Rental_Analytics/
 
 ## Dataset
 
-- Source: Inside Airbnb
-- City: Amsterdam
+- **Source:** Inside Airbnb
+- **City:** Amsterdam
 
 ---
+
 **Author:** Charles Mbayo
