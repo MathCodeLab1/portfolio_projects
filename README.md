@@ -10,7 +10,7 @@ Projects demonstrating Python, SQL, data cleaning, exploratory data analysis (ED
 
 
 ## Business Ventures
-Business ventures applying data analysis, technology, and innovation to slove real-world challenges.
+Business ventures applying data analysis, technology, and innovation to solve real-world challenges.
 
 
 ## Social Impact
@@ -18,7 +18,7 @@ Initiatives focused on expanding educational opportunities and fostering strateg
 
 
 ## Learning
-Practice projects and resources uesd to strengthen my skills in Python, SQL, data analytics, and software development.
+Practice projects and resources used to strengthen my skills in Python, SQL, data analytics, and software development.
 
 
 
