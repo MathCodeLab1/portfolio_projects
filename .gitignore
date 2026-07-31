@@ -28,3 +28,9 @@ env/
 # Private Projects
 
 correlaid-mentoring-Project
+
+
+# gitignore
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
