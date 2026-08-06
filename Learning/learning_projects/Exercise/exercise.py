@@ -1,13 +1,10 @@
 
-
-import pandas as pd
-
-data = {"Name": ["Anna", "Ben", "Cara"],
-        "Sales": [120, 200, 150]
-        }
-
-df = pd.DataFrame(data)
-
+neighbourhood_prices = (
+    df_clean
+    .groupby("neighbourhood")["price"].mean()
+    .sort_values(ascending=False)
+    neighbourhood_prices.head(10)
+)
 
 
 

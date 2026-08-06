@@ -2,19 +2,20 @@
 # Portfolio
 
 Welcome to my professional portfolio.
-This repository showcases my work in data analytics, business ventures, social impact, and continuous learning.
+This repository documents my transition from manufacturing engineering to data analytics. It showcases technical projects, collaborative work, strategic initiatives, and continuous learning.
 
 
 ## Data Analytics
-Projects demonstrating Python, SQL, data cleaning, exploratory data analysis (EDA), and data visualization.
+Projects demonstrating Python, SQL, data cleaning, exploratory data analysis (EDA), data visualization, and practical problem solving.
 
 
-## Business Ventures
-Business ventures applying data analysis, technology, and innovation to solve real-world challenges.
+## Collaborative Projects
+Projects completed with teams using Git, GitHub, and collaborative development practices.
 
 
-## Social Impact
-Initiatives focused on expanding educational opportunities and fostering strategic partnerships across West Africa.
+## Strategic Initiatives
+Long-term initiatives and strategic planning documents, including business concepts and social impact projects under development.
+
 
 
 ## Learning

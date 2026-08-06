@@ -3,16 +3,23 @@
 
 ## Overview
 
-VRStay is a business venture focused on applying data analytics and technology to improve vacation rental management and guest experiences. The project explores innovative solutions that support property owners through data-driven decision-making and digital tools.
+VRStay is a business venture that applies data analytics, automation, and digital technologies to improve vacation rental operations and guest experiences. The project explores data-driven solutions for pricing, occupancy analysis, property management, and business decision-making for short-term rental owners.
+
+
 
 ## Project Areas
+
 - Data Analytics
+- Pricing & Occupancy Analysis
 - Business Planning
 - Market Research
 - Marketing Strategy
 - Presentations
 
+
+
 ## Status
+
 Under Development
 
 ---
