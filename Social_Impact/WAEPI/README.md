@@ -18,7 +18,7 @@ To expand educational opportunities, strengthen international partnerships, and 
 ## Repository Contents
 
 - Strategic Plan (2026-2035)
-- Reasearch 
+- Research 
 - Partnerships
 - Funding
 - Presentations
