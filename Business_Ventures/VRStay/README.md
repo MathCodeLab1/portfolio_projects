@@ -20,7 +20,7 @@ VRStay is a business venture that applies data analytics, automation, and digita
 
 ## Status
 
-Under Development
+Under development. Currently in the research and concept-development phase.
 
 ---
 

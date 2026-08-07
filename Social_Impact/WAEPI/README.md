@@ -27,7 +27,7 @@ To expand educational opportunities, strengthen international partnerships, and 
 
 ## Status
 
-This initiative is in the planning and development phase.
+Under development. Currently in the planning and research phase.
 
 
 
