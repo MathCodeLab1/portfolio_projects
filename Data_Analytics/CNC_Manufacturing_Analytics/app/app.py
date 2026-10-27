@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+
 st.title ("CNC Machine Failure Analysis")
 
 df = pd.read_csv ("Data_Analytics/CNC_Manufacturing_Analytics/data/ai4i2020.csv")
@@ -24,39 +25,53 @@ st.dataframe(filtered_df.describe(), use_container_width=True)
 
 st.header("Machine Failure Analysis")
 
-st.subheader("Torque")
+col1, col2, col3 = st.columns(3)
 
-fig = px.box(
-    filtered_df,
-    x="Machine failure",
-    y="Torque [Nm]"
-)
-st.plotly_chart(fig)
+with col1:
+    st.subheader("Torque")
 
-
-st.subheader("Rotational Speed")
-
-fig = px.box(
-    filtered_df,
-    x="Machine failure",
-    y="Rotational speed [rpm]"
-)
-st.plotly_chart(fig)
+    fig = px.box(
+        filtered_df,
+        x="Machine failure",
+        y="Torque [Nm]",
+        color="Machine failure",
+        color_discrete_map={0: "lightblue", 1: "red"}
+    )
+    st.plotly_chart(fig, width="stretch")
 
 
-st.subheader("Tool Wear")
 
-fig = px.box(
-    filtered_df,
-    x="Machine failure",
-    y="Tool wear [min]"
-)
-st.plotly_chart(fig)
+with col2:
+    st.subheader("Rotational Speed")
+
+    fig = px.box(
+        filtered_df,
+        x="Machine failure",
+        y="Rotational speed [rpm]",
+        color="Machine failure",
+        color_discrete_map={0: "lightblue", 1: "red"}
+    )
+    st.plotly_chart(fig, width="stretch")
+
+
+
+with col3:
+    st.subheader("Tool Wear")
+
+    fig = px.box(
+        filtered_df,
+        x="Machine failure",
+        y="Tool wear [min]",
+        color="Machine failure",
+        color_discrete_map={0: "lightblue", 1: "red"}
+    )
+    st.plotly_chart(fig, width="stretch")
 
 
 st.header("Key Observations")
 
 st.write("""
-The relationship between machine operating conditions and failure varies by machine type.
-The dashboard allows you to compare torque, rotational speed, and tool wear between machines with and without failure for each machine type.
+The boxplots show clear differences between machines with and without failure. Machines with 
+failure tend to have higher torque and tool wear, while their rotational speed is generally lower.
+These patterns suggest that operating conditions are associated with machine failure.
 """)
