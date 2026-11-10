@@ -1,26 +1,28 @@
 
-# Portfolio
+# Professional Portfolio
 
 Welcome to my professional portfolio.
-This repository documents my transition from manufacturing engineering to data analytics. It showcases technical projects, collaborative work, strategic initiatives, and continuous learning.
+
+This repository documents my professional development, building on approximately 25 years of CNC manufacturing experience while developing skills in Python, SQL and data analytics.
+
+It showcases practical data analytics projects, collaborative work, social impact initiatives, business ventures and continuous learning.
 
 
 ## Data Analytics
-Projects demonstrating Python, SQL, data cleaning, exploratory data analysis (EDA), data visualization, and practical problem solving.
+Practical projects exploring data analysis, data visualization, statistical methods and problem-solving using Python and SQL.
 
 
 ## Collaborative Projects
-Projects completed with teams using Git, GitHub, and collaborative development practices.
+Projects involving teamwork, Git, GitHub and collaborative software development.
 
 
 ## Strategic Initiatives
-Long-term initiatives and strategic planning documents, including business concepts and social impact projects under development.
+Long-term initiatives and strategic planning documents, including business ventures and social impact projects under development.
 
 
 
 ## Learning
-Practice projects and resources used to strengthen my skills in Python, SQL, data analytics, and software development.
-
+Selected learning projects and resources supporting my development in programming, mathematics and data analytics.
 
 
 
