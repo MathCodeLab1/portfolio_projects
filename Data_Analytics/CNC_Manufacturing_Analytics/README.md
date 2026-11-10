@@ -1,11 +1,9 @@
 
 # CNC Manufacturing Analytics
-Exploring Industrial Data Science through CNC Manufacturing and Predictive Maintenance.
+Exploring data-driven methods, statistical analysis and predictive modelling for industrial applications.
 
 ## Project Overview
-CNC Manufacturing Analytics is a practical data analytics and portfolio project that explores how manufacturing data can be used to understand machine performance, identify patterns and investigate predictive maintenance.
-
-The project builds on approximately 25 years of professional CNC manufacturing experience and combines this industrial background with developing skills in Python, statistics and data analytics.
+CNC Manufacturing Analytics is a practical data analytics and portfolio project exploring how data-driven methods, statistical analysis and predictive modelling can be applied to industrial processes. The project uses manufacturing data as a practical context for investigating machine performance, operational patterns and predictive maintenance.
 
 It forms part of a longer-term professional development path towards Industrial Data Science, supported by future academic studies in Applied Mathematics.
 
